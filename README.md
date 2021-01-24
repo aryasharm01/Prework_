@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - Tip Calculator 3000
 
-**Name of your app** is a tip calculator application for iOS.
+Tip Calculator 3000 is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Arya Sharma**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -28,13 +28,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/1a3hK1e.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Make sure to connect git with project in beginning.
 
 ## License
 
